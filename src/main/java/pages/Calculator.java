@@ -4,6 +4,7 @@ public class Calculator {
 
     public Calculator(){
     }
+
     public double sum(double x, double y) {
         System.out.println("The result of the sum operation: " + (x + y));
         return x + y;
